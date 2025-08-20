@@ -6313,7 +6313,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   textMesh: {fileID: 1794964846}
-  timeBetweenLetters: 0.1
+  timeBetweenLetters: 0.025
   phrase: "Projeto simples de intera\xE7\xF5es de UI feito em Unity pelo curso da
     EBAC de Unity3D"
 --- !u!224 &1720739764 stripped
